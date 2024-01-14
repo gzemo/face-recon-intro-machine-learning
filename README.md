@@ -2,7 +2,7 @@
 ---
 *Face Recognition final project for the Introduction to Machine Learning course, University of Trento a.y. 2022-2023*
 
-**Credits**: for model implementation and pre-trained architectures download please see the official *Deepface* (Serengil et al., 2020) repository: https://github.com/serengil/deepface
+**Credits**: for model implementation and pre-trained architectures download please see the official *Deepface* (Serengil, S. I., & Ozpinar, A, 2020) repository: https://github.com/serengil/deepface
 
 **Complete project report**: see `report.pdf`.
 
