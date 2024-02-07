@@ -11,6 +11,8 @@ from basemodels import (
     SFace,
 )
 
+# --- Basic plain model objects to be loaded and trained ---
+
 class Model():
 	
 	def __init__(self):
