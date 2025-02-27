@@ -10,7 +10,7 @@
 
 ---
 ## General description
-The present work to address the Introduction to Machine Learning course final project competition on face recognition. In order to do so a **Tensorflow**-based face recognition sistem is presented to address face detection and image embedding extraction to further match the resulting representation to those belonging to a given test set according to similarity scores. 
+The present work to address the Introduction to Machine Learning course final project competition on face recognition. In order to do so a **Tensorflow**-based face recognition system is presented to address face detection and image embedding extraction to further match the resulting representation to those belonging to a given test set according to similarity scores. 
 
 Originally each group had been asked to submit their result to a private server in oder to evaluate the current model performance: this feature is disabled.
 
